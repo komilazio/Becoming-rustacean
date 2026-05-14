@@ -11,5 +11,3 @@ each completed project had changed my aproach if any, as a programmer.
  - Grep
  - Curl
  - Git
-
-check out the [wiki](https://github.com/komilazio/Becoming-rustacean/wiki) to see what i learned working on these 7 projects.
