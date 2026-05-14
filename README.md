@@ -4,7 +4,7 @@ this will all be re-implementing some unix tools, and documenting my experience 
 each completed project had changed my aproach if any, as a programmer.
 
 ### List of cli tools to Re-implement.
-  [Echo](/echo)
+  [Echo](docs/echo.md)
   [Cat](#cat)
   [Head](#head)
   [Find](#find)
