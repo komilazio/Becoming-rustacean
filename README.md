@@ -4,10 +4,10 @@ this will all be re-implementing some unix tools, and documenting my experience 
 each completed project had changed my aproach if any, as a programmer.
 
 ### List of cli tools to Re-implement.
- - Echo 
- - Cat
- - Head
- - Find
- - Grep
- - Curl
- - Git
+  [Echo](/echo)
+  [Cat](#cat)
+  [Head](#head)
+  [Find](#find)
+  [Grep](#grep)
+  [Curl](#curl)
+  [Git ](#git)
